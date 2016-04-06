@@ -32,9 +32,9 @@ After completion of the course you will be able to:
 
 ## Materials
 
-Lecture 1 - Introduction to information design.
-Lecture 2 - Discuss and critiques cases studies and exemples.
-Lecture 3 - Prototyping visual representation manually with computers.
+* Lecture 1 - Introduction to information design.
+* Lecture 2 - Discuss and critiques cases studies and exemples.
+* Lecture 3 - Prototyping visual representation manually with computers.
 
 
 ## Examples of Stories and Graphics

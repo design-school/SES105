@@ -40,15 +40,10 @@ After completion of the course you will be able to:
 ## Examples of Stories and Graphics
 
 * [The fallen of ww2](http://www.fallen.io/ww2/)
-
 * [The Death of a Terrorist: A Turning Point?](http://www.nytimes.com/interactive/2011/05/03/us/20110503-osama-response.html)
-
 * [A 3-D View of a Chart That Predicts The Economic Future: The Yield Curve](http://www.nytimes.com/interactive/2015/03/19/upshot/3d-yield-curve-economic-growth.html)
-
 * [The Families Funding the 2016 Presidential Election](http://www.nytimes.com/interactive/2015/10/11/us/politics/2016-presidential-election-super-pac-donors.html)
-
 * [Connecting the Dots Behind the 2016 Presidential Candidates](http://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html)
-
 * [Tax Day: Are You Receiving a Marriage Penalty or Bonus?](http://www.nytimes.com/interactive/2015/04/16/upshot/marriage-penalty-couples-income.html)
 
 
@@ -58,13 +53,9 @@ After completion of the course you will be able to:
 ## Galleries for inspirations 
 
 * [2015: The Year in Visual Stories and Graphics](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html)
-
 * [information graphics](https://www.pinterest.com/ddarmstrong/information-graphics/)
-
 * [Visualy best infovis 2015](http://blog.visual.ly/9-best-data-visualization-examples-2015/)
-
 * [The 24 Best Interactive Websites of 2015](http://blog.visual.ly/24-best-interactive-websites-2015/)
-
 * [10 Best Data Visualization Projects of 2015](http://flowingdata.com/2015/12/22/10-best-data-visualization-projects-of-2015)
 
 ## Ressoucres 

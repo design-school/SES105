@@ -4,19 +4,19 @@ SES105 - Information Design Module -  Bootstrap Workshop
 
 ## Syllabus
 
-This course is a really short introductory classe of 3 * 90 minutes to information design.  The major goals of this course is an introduction to represent abstract informations visually from various perspectives. Communicating information visually is a vast topic shared between multiple communities and skills such as graphic design, information visualization, visual statistics, user experience design, and informations communication sciences. We will focus our 
+This course is a short introductory classe of 3 * 90 minutes to information design.  The major goals of this course is an introduction to represent abstract informations visually from various perspectives. Communicating information visually is a vast topic shared between multiple communities and skills such as graphic design, information visualization, visual statistics, user experience design, and informations communication sciences. We will focus our 
 
 discuss some elementary notions and key design principles such as graphic design and information visualization.   
 
 This course is a module of a larger classe about issue mapping named ["cartographie de controverse"](https://en.wikipedia.org/wiki/Mapping_controversies) at [Télècom Paris Tech](http://ethique-tic.fr/2016/).
 
 After completion of the course you will be able to:
-* Sketch and prototype visual representation with a focus on 
+* Understand visual representation basic principles
+* Sketch and prototype visual representation with a focus on :
 	* Timeline, 
 	* Stackholder mapping, 
 	* Arguement tree,
 	* And custom representation
-* Use automatic tools to represent data 
 * Critique and discuss visual representations. 
 
 
@@ -105,10 +105,13 @@ After completion of the course you will be able to:
 * Collapsible Indented Tree : http://bl.ocks.org/mbostock/1093025
 
 ### Usefull text books 
+* [Visual Thinking for design | Colin Ware](http://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966)
+* [Design for Information | Isabel Meirelles](http://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061)
+* [La semiologie graphique | Jacque Bertin](https://www.amazon.fr/S%C3%A9miologie-graphique-diagrammes-r%C3%A9seaux-cartes/dp/2713224179)
+* []()
 
 ### Links
 
-* [Visual thinking school](http://xplaner.com/visual-thinking-school/)
 * [Visual thinking school](http://xplaner.com/visual-thinking-school/)
 
 

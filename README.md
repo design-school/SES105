@@ -108,7 +108,8 @@ After completion of the course you will be able to:
 * [Visual Thinking for design | Colin Ware](http://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966)
 * [Design for Information | Isabel Meirelles](http://www.amazon.com/Design-Information-Introduction-Histories-Visualizations/dp/1592538061)
 * [La semiologie graphique | Jacque Bertin](https://www.amazon.fr/S%C3%A9miologie-graphique-diagrammes-r%C3%A9seaux-cartes/dp/2713224179)
-* []()
+* [Interactive Data Visualization for the Web | Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345)
+* A lot of others ones ...
 
 ### Links
 

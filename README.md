@@ -11,13 +11,19 @@ discuss some elementary notions and key design principles such as graphic design
 This course is a module of a larger classe about issue mapping named ["cartographie de controverse"](https://en.wikipedia.org/wiki/Mapping_controversies) at [Télècom Paris Tech](http://ethique-tic.fr/2016/).
 
 After completion of the course you will be able to:
-* Understand visual representation basic principles
-* Sketch and prototype visual representation with a focus on :
-	* Timeline, 
-	* Stackholder mapping, 
-	* Arguement tree,
+* Introduction to visual representation basic principles
+* Introduction to Identify the main categories of data and representation:
+	* Relational structure,
+	* Hierarchical structure, 
+	* Temporal structure, 
+	* Spatial structure,
+	* Textual structure
+* Introduction to Sketching and prototyping visual representation with a focus on :
+	* Temporal structure (Timeline...)
+	* Relational structure (Stackholder mapping...)
+	* Textual (Arguement tree )
 	* And custom representation
-* Critique and discuss visual representations. 
+* Introduction to critique and discuss visual representations. 
 
 
 
